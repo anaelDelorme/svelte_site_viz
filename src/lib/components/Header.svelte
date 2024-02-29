@@ -63,12 +63,12 @@
                         >
                     </li>
                     <li class="fr-nav__item">
-                        <a class="fr-nav__link" href="contact/" target="_self"
+                        <a class="fr-nav__link" href="/contact" target="_self"
                             >Contact</a
                         >
                     </li>
                     <li class="fr-nav__item">
-                        <a class="fr-nav__link" href="mentions/" target="_self"
+                        <a class="fr-nav__link" href="/mentions" target="_self"
                             >Mentions légales</a
                         >
                     </li>
