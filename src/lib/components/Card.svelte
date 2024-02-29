@@ -18,7 +18,7 @@
 		</div>
 		<div class="fr-card__header">
 		  <div class="fr-card__img">
-			<img class="fr-responsive-img" src={"/images/" + image_card} alt={image_card_alt}>
+			<img class="fr-responsive-img" src={"images/" + image_card} alt={image_card_alt}>
 		  </div>
 		</div>
 	  </div>
