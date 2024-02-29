@@ -1,0 +1,56 @@
+[
+	{
+	"title_card": "Évolution du nombre d'exploitations",
+	"description_card": "En 2020, la France compte 416 400 « exploitations agricoles », 20 % de moins qu'il y a 10 ans, selon les résultats du dernier recensement agricole.",
+	"image_card": "ferme.jpg",
+	"image_card_alt": "Ferme",
+	"link_card": "https://vizagreste.agriculture.gouv.fr/evolution-du-nombre-d-exploitations.html"
+ 	 },
+	{
+	  "title_card": "La superficie agricole utilisée",
+	  "description_card": "En 2020, l’agriculture occupe 269 000 km² de l’espace français. En métropole, cela représente 49 % du territoire.",
+	  "image_card": "sau_france.jpg",
+	  "image_card_alt": "SAU",
+	  "link_card": "https://vizagreste.agriculture.gouv.fr/la-superficie-agricole-utilisee.html"
+	},
+	{
+		"title_card": "L'emploi agricole",
+		"description_card": "En 2020 en métropole, la main-d’œuvre agricole s’établit à 660 000 ETP, soit 80 000 ETP de moins qu’en 2010. Elle recule de 11 % en dix ans, mais de façon moins prononcée qu’auparavant.",
+		"image_card": "agriculteur.jpg",
+		"image_card_alt": "Emploi agricole",
+		"link_card": "https://vizagreste.agriculture.gouv.fr/emploi-agricole.html"
+
+		  },
+		{
+		  "title_card": "Les traitements phytosanitaires",
+		  "description_card": "Les produits phytopharmaceutiques (que l'on appelle aussi « pesticides ») sont des substances chimiques ou biologiques, telles que les herbicides, les insecticides ou les fongicides. Ils protègent les cultures contre les maladies, les ravageurs ou les plantes adventices.",
+		  "image_card": "phyto.jpg",
+		  "image_card_alt": "traitements phytosanitaires",
+		  "link_card": "https://vizagreste.agriculture.gouv.fr/les-traitements-phytosanitaires.html"
+		},{
+			"title_card": "Aquaculture",
+			"description_card": "L’aquaculture consiste à élever des animaux ou cultiver des plantes en milieu aquatique. Pour l’essentiel, ces productions visent la consommation humaine ou le repeuplement des rivières et des étangs. La culture des algues intéresse aussi des industries comme la pharmacie ou la cosmétique.",
+			"image_card": "aqua.jpg",
+			"image_card_alt": "Aquaculture",
+			"link_card": "https://vizagreste.agriculture.gouv.fr/aquaculture.html"
+
+			  },
+			{
+			  "title_card": "La transhumance collective",
+			  "description_card": "Emmener ses bêtes brouter plus ou moins loin de leur « port d’attache », c’est pour les éleveurs d’herbivores une pratique ancestrale dont les « grandes transhumances » sont l’emblème collectif et festif le plus connu.",
+			  "image_card": "transhumance.jpg",
+			  "image_card_alt": "transhumance",
+			  "link_card": "https://vizagreste.agriculture.gouv.fr/la-transhumance-collective.html"
+
+			},{
+				"title_card": "Les exploitations bovines laitières",
+				"description_card": "La France est le 2e pays producteur laitier en Europe, derrière l’Allemagne. L’élevage bovin laitier concerne 50 000 exploitations agricoles en métropole en 2020, soit un peu plus d’une ferme sur huit.",
+				"image_card": "bovin.jpg",
+				"image_card_alt": "Bovin",
+				"link_card": "https://vizagreste.agriculture.gouv.fr/les-exploitations-bovines-laitieres.html"
+
+
+				  }
+	
+  ]
+  

@@ -1,12 +1,17 @@
 <svelte:head>
-	<title>SvelteKitTemplate</title>
+	<title>VizAgreste Bêta</title>
 </svelte:head>
 
-<h1>Travis's SvelteKit template</h1>
+<h1>Les Viz d'Agreste</h1>
 
-<p>
-	A very opinionated site template for SvelteKit to make it a little more production-ready.
-</p>
-<p>
-	<a href="/page-two">Here's a page using Markdown.</a>
-</p>
+<script>
+	import Card from "$lib/components/Card.svelte"
+	import cardsData from "$lib/components/list_viz.json"
+</script>
+<div class="fr-grid-row fr-grid-row--gutters fr-mb-1w">
+
+  {#each cardsData as card (card.title_card)}
+	<Card title_card={card.title_card} description_card={card.description_card} image_card={card.image_card} image_card_alt={card.image_card_alt} link_card={card.link_card}/>
+  {/each}
+
+</div>

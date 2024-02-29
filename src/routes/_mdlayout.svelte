@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>{title ? title + " - " : ""}SvelteKitTemplate</title>
+	<title>{title ? title + " - " : ""}VizAgreste Bêta</title>
 </svelte:head>
 
 <slot></slot>
