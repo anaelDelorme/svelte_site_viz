@@ -26,7 +26,7 @@ export default {
 			strict: true
 		}),
 		paths: {
-			base: process.env.BASE_URL || "",
+			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH
 		},
 	},
 
