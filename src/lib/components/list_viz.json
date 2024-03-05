@@ -11,7 +11,7 @@
 	  "description_card": "En 2020, l’agriculture occupe 269 000 km² de l’espace français. En métropole, cela représente 49 % du territoire.",
 	  "image_card": "sau_france.jpg",
 	  "image_card_alt": "SAU",
-	  "link_card": "https://vizagreste.agriculture.gouv.fr/la-superficie-agricole-utilisee.html"
+	  "link_card": "https://anaeldelorme.github.io/viz_sau/"
 	},
 	{
 		"title_card": "L'emploi agricole",
