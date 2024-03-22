@@ -1,12 +1,5 @@
 [
 	{
-	"title_card": "Évolution du nombre d'exploitations",
-	"description_card": "En 2020, la France compte 416 400 « exploitations agricoles », 20 % de moins qu'il y a 10 ans, selon les résultats du dernier recensement agricole.",
-	"image_card": "ferme.jpg",
-	"image_card_alt": "Ferme",
-	"link_card": "https://vizagreste.agriculture.gouv.fr/evolution-du-nombre-d-exploitations.html"
- 	 },
-	{
 	  "title_card": "La superficie agricole utilisée",
 	  "description_card": "En 2020, l’agriculture occupe 269 000 km² de l’espace français. En métropole, cela représente 49 % du territoire.",
 	  "image_card": "sau_france.jpg",
